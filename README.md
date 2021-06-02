@@ -3,5 +3,7 @@ This Github contains the resources presented in the paper "Distributional semant
 - "script", which contains the Jupyter Notebook (python 3) used to compute the distributional measures
 - "results", which contains the lists of distributional neighbors for the 6 centroids we computed, the average proximity score (or density) of each seed to the other seeds for each suffix, and the result of the agent nouns clustering.
 
+See (Huyghe and Wauquier 2021) for details on the criteria used to annotate the seeds and the neighbors.
+
 References:
 Huyghe, Richard and Wauquier, Marine (2021). Distributional semantics insights on agentive suffix rivalry in French. Word Structure, 14 (3).
