@@ -1,0 +1,101 @@
+AN	CENTROID	PROX	MORPH_TYPE	EXPONENT	BASE_POS	SEM_TYPE
+NC:médecin	aire	0.744610196394778	simple			
+NC:comptable	aire	0.74089106167524	conversion		a	property
+NC:collaborateur	aire	0.736156009124933	affixed	eur	v	action
+NC:bibliothécaire	aire	0.723472291323666	affixed	aire	n	object
+NC:juriste	aire	0.716699027094765	affixed	iste	n	domain
+NC:financier	aire	0.710458133201248	affixed	ier	n	domain
+NC:informateur	aire	0.709796477775869	affixed	eur	v	action
+NC:avocat	aire	0.707585133609744	simple			
+NC:savant	aire	0.691897082613239	undet			
+NC:lobbyiste	aire	0.691215142879572	affixed	iste	n	institution
+NC:banquier	aire	0.682310679537135	affixed	ier	n	domain
+NC:imprimeur	aire	0.679873993798771	affixed	eur	v	action
+NC:pharmacien	aire	0.678049247451795	affixed	ien	n	domain
+NC:administrateur	aire	0.677686965447414	affixed	eur	v	action
+NC:journaliste	aire	0.677638692892985	affixed	iste	n	objCog
+NC:politicien	aire	0.674346163875723	affixed	ien	n	domain
+NC:clerc	aire	0.665360332938541	simple			
+NC:magistrat	aire	0.66355227423736	simple			
+NC:dirigeant	aire	0.661209787686243	conversion		v	action
+NC:libraire	aire	0.661023665115651	affixed	aire	n	objCog
+NC:vétérinaire	aire	0.660681081606724	complex			
+NC:confrère	aire	0.658753842541099	affixed	co	n	object
+NC:intellectuel	aire	0.657999155024944	conversion		a	property
+NC:commis	aire	0.654875970076583	conversion		v	action
+NC:faussaire	aire	0.651841517739702	affixed	aire	n	object
+NC:diplomate	aire	0.65153360690784	simple			
+NC:responsable	aire	0.651253185005017	conversion		a	property
+NC:généalogiste	aire	0.650028949127175	affixed	iste	n	domain
+NC:fonctionnaire	aire	0.649771529043441	affixed	aire	n	action
+NC:typographe	aire	0.649067374873709	compound			
+NC:restaurateur	aire	0.649028738775032	affixed	eur	v	action
+NC:commerçant	aire	0.648905959122982	conversion		v	action
+NC:érudit	aire	0.648773866242412	simple			
+NC:entrepreneur	aire	0.647572343027136	affixed	eur	v	action
+NC:employé	aire	0.646468705366942	conversion		v	action
+NC:militaire	aire	0.64471619056637	complex			
+NC:praticien	aire	0.643570776558281	affixed	ien	n	domain
+NC:chirurgien	aire	0.643218487641273	affixed	ien	n	domain
+NC:haut-fonctionnaire	aire	0.640773324124226	affixed	haut	n	object
+NC:libelliste	aire	0.64031447054225	affixed	iste	n	objCog
+NC:armurier	aire	0.640022967632973	affixed	ier	n	object
+NC:psychiatre	aire	0.639215020537803	compound			
+NC:délateur	aire	0.63827438141793	affixed	eur	v	action
+NC:jurisconsulte	aire	0.637828623849478	compound			
+NC:ecclésiastique	aire	0.637392860802482	conversion		a	property
+NC:affairiste	aire	0.637161058997839	affixed	iste	n	action
+NC:prêtre	aire	0.636646237717486	simple			
+NC:émigré	aire	0.635592026090071	conversion		v	action
+NC:enseignant	aire	0.635405641230386	conversion		v	action
+NC:traducteur	aire	0.633758894868419	affixed	eur	v	action
+NC:citoyen	aire	0.633484830785984	affixed	ien	n	object
+NC:syndicaliste	aire	0.631825947367479	affixed	iste	n	institution
+NC:éducateur	aire	0.631451207193246	affixed	eur	v	action
+NC:comploteur	aire	0.630708611919412	affixed	eur	v	action
+NC:économiste	aire	0.629220295367284	affixed	iste	n	domain
+NC:patriote	aire	0.627999756347512	complex			
+NC:sténographe	aire	0.627214381891007	compound			
+NC:jésuite	aire	0.62648726425738	complex			
+NC:littérateur	aire	0.625227670062893	affixed	eur	n	domain
+NC:collègue	aire	0.621600192588272	simple			
+NC:militant	aire	0.620141399266501	conversion		v	action
+NC:officier	aire	0.620080169478312	affixed	ier	n	object
+NC:conspirateur	aire	0.61949796327954	affixed	eur	v	action
+NC:criminel	aire	0.618762093422031	conversion		a	property
+NC:industriel	aire	0.618457809813219	conversion		a	property
+NC:révolutionnaire	aire	0.617931781605175	affixed	aire	n	action
+NC:archiviste	aire	0.61779641036948	affixed	iste	n	object
+NC:historien	aire	0.616830887911143	affixed	ien	n	domain
+NC:associé	aire	0.614867807785337	conversion		v	action
+NC:avoué	aire	0.614102630668928	simple			
+NC:publiciste	aire	0.613120572809922	affixed	iste	n	objCog
+NC:bijoutier	aire	0.613112680251256	affixed	ier	n	object
+NC:conservateur	aire	0.613073980579918	affixed	eur	v	action
+NC:enquêteur	aire	0.611805506064774	affixed	eur	v	action
+NC:pasteur	aire	0.611617442848957	complex			
+NC:censeur	aire	0.611569051576405	complex			
+NC:bibliophile	aire	0.610468592470234	compound			
+NC:plombier	aire	0.608880046287959	affixed	ier	n	object
+NC:théologien	aire	0.606506202585961	affixed	ien	n	domain
+NC:déserteur	aire	0.606457441774626	affixed	eur	v	action
+NC:sympathisant	aire	0.606302911195442	conversion		v	action
+NC:expert	aire	0.60627930934956	simple			
+NC:agitateur	aire	0.605139849253974	affixed	eur	v	action
+NC:négociateur	aire	0.604836138635371	affixed	eur	v	action
+NC:postier	aire	0.604559077524231	affixed	ier	n	institution
+NC:anarchiste	aire	0.604182113002427	affixed	iste	n	property
+NC:contremaître	aire	0.603676765794102	affixed	contre	n	object
+NC:missionnaire	aire	0.603587207684458	affixed	aire	n	action
+NC:relieur	aire	0.603238654460962	affixed	eur	v	action
+NC:prête-nom	aire	0.602861851754531	compound			
+NC:commissionnaire	aire	0.602549007338447	affixed	aire	n	action
+NC:domestique	aire	0.602377406003903	conversion		a	property
+NC:dentiste	aire	0.601986527979317	affixed	iste	n	object
+NC:prédicateur	aire	0.601236268149848	complex			
+NC:charlatan	aire	0.601158449938976	simple			
+NC:employeur	aire	0.600728556514249	affixed	eur	v	action
+NC:activiste	aire	0.599911529188501	affixed	iste	a	property
+NC:ouvrier	aire	0.598688029070506	affixed	ier	v	action
+NC:mécène	aire	0.598460082296654	simple			
+NC:transfuge	aire	0.597383710817432	complex			
